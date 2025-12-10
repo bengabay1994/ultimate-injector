@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="InjectorTests/InjectorTests.vcxproj" Id="6e3a89f0-b707-448d-9bab-70282cf64e4e" />
+  <Project Path="TestDll/TestDll.vcxproj" Id="cc3d11bd-c718-452b-aa46-28ac127bcb42" />
+  <Project Path="UltimateInjector/UltimateInjector.vcxproj" Id="ff8bc2c8-d4de-4436-9e06-a533ea7e5aae" />
+</Solution>
